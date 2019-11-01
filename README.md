@@ -1,12 +1,12 @@
-# Image processing with Deep Learning
+# Clustering and the curse of dimensionality
 
-A brief introduction to Machine Learning, Deep Learning and Image processing
+A brief introduction to Clustering, Curse of dimensionality and dimensionality reduction technichs
 
 ## In order to run this notebook...
 
 1. Clone this repository
 
-    git clone git@github.com:arielrossanigo/image_processing_with_deep_learning.git
+    git clone git@github.com:arielrossanigo/clustering_and_the_curse_of_dimensionality.git
 
 2. Install requirements
 
@@ -14,10 +14,6 @@ A brief introduction to Machine Learning, Deep Learning and Image processing
 
 3. Open this notebook
 
-    jupyter notebook image_processing_with_deep_learning.ipynb
-
-or in Spanish
-
-    jupyter notebook deep_learning_para_el_procesado_de_imagenes.ipynb
+    jupyter notebook clustering_and_the_curse_of_dimensionality.ipynb
 
 4. Enjoy!
