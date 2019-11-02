@@ -68,17 +68,5 @@ def load_mnist(size):
 def load_dd(size):
     characters = pd.read_csv('characters.csv')
     characters = characters.sample(size, random_state=42)
-    mapper = {
-        'dragonborn': 0,
-        'dwarf': 0,
-        'elf': 1,
-        'gnome': 0,
-        'half-elf': 1,
-        'half-orc': 0,
-        'halfling': 0,
-        'human': 1,
-        'tiefling': 0
-    }
-    characters['most_common_race'] = characters.race.map(mapper)
     return characters
 
