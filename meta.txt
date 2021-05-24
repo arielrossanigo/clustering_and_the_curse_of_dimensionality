@@ -1,0 +1,10 @@
+Titulo: 
+Clustering & the curse of dimensionality.
+
+Abstract:
+En la charla se hará una introducción a los problemas de clustering y a las técnicas disponibles para tratar de resolverlos, explicando ventajas y limitaciones de cada enfoque. Asimismo, se mostrarán técnicas de reducción de dimensionalidad, las cuales nos serán útiles para poder visualizar los datos, todo esto acompañado de ejemplos de manual.
+
+Una vez hecho esto vamos a pasar a un caso de uso más real, con muchas dimensiones, pocas de ellas útiles y muchas sin utilidad. Vamos a ver cómo podemos combinar algunas técnicas para lidiar con esta problemática y terminar con un algoritmo que devuelva clusters que tengan sentido en un tiempo razonable.
+
+
+
